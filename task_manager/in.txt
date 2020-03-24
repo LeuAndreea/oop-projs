@@ -1,0 +1,5 @@
+SOlve_OOP_assigment 120 1
+Respond_to_emalis 45 2
+Eat_sushi 20 3
+Visit_parent 240 1
+Buy_a_jacket 120 2
